@@ -34,7 +34,7 @@ spec:
 
       - name: webapp
 
-        image: nginx/1.23.1
+        image: nginx:1.23.1
         ports:
 
         - containerPort: 80
